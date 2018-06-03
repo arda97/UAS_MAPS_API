@@ -12,4 +12,4 @@ INSTALASI:
 1. install package <a href="https://www.npmjs.com/package/react-native-maps">react-native-maps</a> ikutin instruksi instalasinya
 
 ## Demo
-<img src="https://github.com/fundaypande/google-maps-react-native/blob/master/demo/demo.jpg" width="400px" />
+<img src="https://github.com/arda97/UAS_MAPS_API/blob/master/demo/demo.jpg" width="400px" />
